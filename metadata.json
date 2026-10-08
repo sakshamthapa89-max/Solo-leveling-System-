@@ -1,0 +1,6 @@
+{
+  "name": "Sathi AI",
+  "description": "Bilingual AI team assistant for automated meeting scheduling, email management, and daily workflows with female and male voice audio interactions in Nepali and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

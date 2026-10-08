@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sathi AI</string>
+    <string name="title_team_assistant">Sathi AI - Team Voice Assistant</string>
+    <string name="tab_voice">Voice Agent</string>
+    <string name="tab_schedule">Meetings</string>
+    <string name="tab_emails">Emails</string>
+    <string name="tab_tasks">Daily Work</string>
+    <string name="tab_team">Team</string>
+</resources>
